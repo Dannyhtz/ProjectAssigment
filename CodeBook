@@ -1,1 +1,13 @@
+#The columns in mergedf are:
+  Subject_id. Column extracted from Subject_Datasets. It is a numeric value that defines the Subject of the test.
+  Activity. Column extracted from Y_Datasets. It is the code of the activity.
+  Observation. Column extracted from X_Datasets. It is the numeric value of the test.
+  Experiment. It is a new column that indicates if it is the training or the testing. 
+
+#The columns in df_edited are:
+  Experiment. It is a new column that indicates if it is the training or the testing.
+  Activity. Column extracted from Y_Datasets. It is the label of the activity.
+  Subject_id. Column extracted from Subject_Datasets. It is a numeric value that defines the Subject of the test.
+  MD. It is the mean of the differents obersvations
+  SD. It is the Standard desviation of the differents observations.
 
