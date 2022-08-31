@@ -1,5 +1,5 @@
 # ProjectAssigment
-This Script must be located in the same folder that UCI HAR Dataset
+This Script Run_analysis.R must be located in the same folder that UCI HAR Dataset
 It takes Test and Train values and creates two Dataframes. Both with same structure:
   Subject_id. Column extracted from Subject_Datasets. It is a numeric value that defines the Subject of the test.
   Activity. Column extracted from Y_Datasets. It is the code of the activity.
